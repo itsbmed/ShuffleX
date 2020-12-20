@@ -1,0 +1,28 @@
+C:\Users\Imad\source\repos\calc\calc\bin\Debug\calc.exe.config
+C:\Users\Imad\source\repos\calc\calc\bin\Debug\calc.exe
+C:\Users\Imad\source\repos\calc\calc\bin\Debug\calc.pdb
+C:\Users\Imad\source\repos\calc\calc\obj\Debug\calc.csprojAssemblyReference.cache
+C:\Users\Imad\source\repos\calc\calc\obj\Debug\calc.Properties.Resources.resources
+C:\Users\Imad\source\repos\calc\calc\obj\Debug\calc.csproj.GenerateResource.cache
+C:\Users\Imad\source\repos\calc\calc\obj\Debug\calc.csproj.CoreCompileInputs.cache
+C:\Users\Imad\source\repos\calc\calc\obj\Debug\calc.exe
+C:\Users\Imad\source\repos\calc\calc\obj\Debug\calc.pdb
+C:\Users\Imad\source\repos\calc\calc\bin\Debug\en\calc.resources.dll
+C:\Users\Imad\source\repos\calc\calc\obj\Debug\en\calc.resources.dll
+C:\Users\Imad\source\repos\calc\calc\obj\Debug\calc.Shuffle.resources
+C:\Users\Imad\source\repos\calc\calc\obj\Debug\calc.Shuffle.en.resources
+C:\Users\Imad\source\repos\Mohammed Belachhab Shuffle Game\calc\bin\Debug\calc.exe.config
+C:\Users\Imad\source\repos\Mohammed Belachhab Shuffle Game\calc\bin\Debug\calc.exe
+C:\Users\Imad\source\repos\Mohammed Belachhab Shuffle Game\calc\bin\Debug\calc.pdb
+C:\Users\Imad\source\repos\Mohammed Belachhab Shuffle Game\calc\bin\Debug\en\calc.resources.dll
+C:\Users\Imad\source\repos\Mohammed Belachhab Shuffle Game\calc\obj\Debug\calc.csprojAssemblyReference.cache
+C:\Users\Imad\source\repos\Mohammed Belachhab Shuffle Game\calc\obj\Debug\calc.Shuffle.resources
+C:\Users\Imad\source\repos\Mohammed Belachhab Shuffle Game\calc\obj\Debug\calc.Properties.Resources.resources
+C:\Users\Imad\source\repos\Mohammed Belachhab Shuffle Game\calc\obj\Debug\calc.Shuffle.en.resources
+C:\Users\Imad\source\repos\Mohammed Belachhab Shuffle Game\calc\obj\Debug\calc.csproj.GenerateResource.cache
+C:\Users\Imad\source\repos\Mohammed Belachhab Shuffle Game\calc\obj\Debug\calc.csproj.CoreCompileInputs.cache
+C:\Users\Imad\source\repos\Mohammed Belachhab Shuffle Game\calc\obj\Debug\en\calc.resources.dll
+C:\Users\Imad\source\repos\Mohammed Belachhab Shuffle Game\calc\obj\Debug\calc.exe
+C:\Users\Imad\source\repos\Mohammed Belachhab Shuffle Game\calc\obj\Debug\calc.pdb
+C:\Users\Imad\source\repos\Mohammed Belachhab Shuffle Game\calc\obj\Debug\calc.Form2.resources
+C:\Users\Imad\source\repos\Mohammed Belachhab Shuffle Game\calc\obj\Debug\calc.Form4.resources
